@@ -1,0 +1,14 @@
+[
+    {
+      "id": "joker",
+      "name": "Joker"
+    },
+    {
+      "id": "spiderman",
+      "name": "Spider-Man"
+    },
+    {
+      "id": "batman",
+      "name": "Batman"
+    }
+]
